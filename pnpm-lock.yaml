@@ -22,8 +22,8 @@ dependencies:
     specifier: ^1.0.3
     version: 1.0.3
   '@movie-web/providers':
-    specifier: ^2.3.0
-    version: 2.3.0
+    specifier: github:movie-web-rip/providerss
+    version: github.com/movie-web-rip/providerss/f6563fc61ed8a32a60b114cb1a67095f46823e54
   '@noble/hashes':
     specifier: ^1.3.3
     version: 1.3.3

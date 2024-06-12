@@ -111,7 +111,7 @@
     "jsdom": "^23.0.1",
     "postcss": "^8.4.32",
     "postcss-rtl": "^2.0.0",
-    "postcss-rtlcss": "^4.0.9",
+    "postcss-rtlcss": "^5.1.0",
     "prettier": "^3.1.1",
     "prettier-plugin-tailwindcss": "^0.5.9",
     "rollup-plugin-visualizer": "^5.11.0",
